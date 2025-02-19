@@ -31,7 +31,7 @@ pip install cryptography
 
 3️⃣ Run the application:  
 ```sh
-python password_manager.py
+python pass_mang.py
 ```
 
 ## 🔐 Usage  
